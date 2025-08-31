@@ -90,7 +90,7 @@ streamlit run main.py
 ## Demo
 
 <p align="center">
-  <img src="Scrappy_AI/Demo.gif" width="450" alt="AI web scrapper demo" />
+  <img src="Scrappy_AI/Demo.gif" width="500" alt="AI web scrapper demo" />
 </p>
 
 
