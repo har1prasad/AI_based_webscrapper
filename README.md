@@ -1,17 +1,17 @@
-# 📌 Scrappy\_AI
+# Scrappy\_AI
 
 An **AI-powered web scraper** that extracts, cleans, and parses website data using **Selenium, BeautifulSoup, and Google Gemini API**. Built with a **Streamlit interface** for simplicity.
 
 
-## 🚀 Features
+## Features
 
-* 🔍 **Scrape any website** using Selenium.
-* 🧹 **Extract & clean body content** (removes scripts, styles, etc.).
-* ✂️ **Split large DOM content** into manageable chunks.
-* 🤖 **AI-powered parsing** with Google Gemini API.
-* 🖥️ **Streamlit UI** for easy interaction.
+* **Scrape any website** using Selenium.
+* **Extract & clean body content** (removes scripts, styles, etc.).
+* ✂**Split large DOM content** into manageable chunks.
+* **AI-powered parsing** with Google Gemini API.
+* **Streamlit UI** for easy interaction.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Python 3.9+**
 * [Streamlit](https://streamlit.io/)
@@ -21,7 +21,7 @@ An **AI-powered web scraper** that extracts, cleans, and parses website data usi
 * [python-dotenv](https://pypi.org/project/python-dotenv/)
 
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Scrappy_AI/
@@ -33,7 +33,7 @@ Scrappy_AI/
 ```
 
 
-## ⚙️ Installation
+## Installation
 
 1. **Clone the repository:**
 
@@ -71,7 +71,7 @@ API_KEY=your_google_gemini_api_key_here
 * Place it in the project folder as `chromedriver.exe`.
 
 
-## ▶️ Usage
+## Usage
 
 Run the Streamlit app:
 
@@ -87,19 +87,19 @@ streamlit run main.py
 4. Click **Parse Content** → AI extracts requested data.
 
 
-## 📸 Demo
+## Demo
 
 *Add screenshots or a GIF of your app here*
 
 
-## ⚠️ Notes
+## Notes
 
 * The free Gemini API has usage limits → avoid scraping huge websites in one go.
 * Selenium may require Chrome to be installed on your system.
 * Works best with structured websites.
 
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 * [Streamlit](https://streamlit.io/)
 * [Selenium](https://www.selenium.dev/)
