@@ -89,7 +89,9 @@ streamlit run main.py
 
 ## Demo
 
-*Add screenshots or a GIF of your app here*
+<p align="center">
+  <img src="Scrappy_AL/Demo.gif" width="450" alt="AI web scrapper demo" />
+</p>
 
 
 ## Notes
