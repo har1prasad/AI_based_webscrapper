@@ -2,7 +2,6 @@
 
 An **AI-powered web scraper** that extracts, cleans, and parses website data using **Selenium, BeautifulSoup, and Google Gemini API**. Built with a **Streamlit interface** for simplicity.
 
----
 
 ## 🚀 Features
 
@@ -11,8 +10,6 @@ An **AI-powered web scraper** that extracts, cleans, and parses website data usi
 * ✂️ **Split large DOM content** into manageable chunks.
 * 🤖 **AI-powered parsing** with Google Gemini API.
 * 🖥️ **Streamlit UI** for easy interaction.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +20,6 @@ An **AI-powered web scraper** that extracts, cleans, and parses website data usi
 * [Google Gemini API](https://ai.google.dev/)
 * [python-dotenv](https://pypi.org/project/python-dotenv/)
 
----
 
 ## 📂 Project Structure
 
@@ -36,7 +32,6 @@ Scrappy_AI/
 │-- .env.example     # Environment variables template
 ```
 
----
 
 ## ⚙️ Installation
 
@@ -75,7 +70,6 @@ API_KEY=your_google_gemini_api_key_here
 * Download the correct [ChromeDriver](https://sites.google.com/chromium.org/driver/) for your Chrome version.
 * Place it in the project folder as `chromedriver.exe`.
 
----
 
 ## ▶️ Usage
 
@@ -92,13 +86,11 @@ streamlit run main.py
 3. Describe what you want to parse (e.g., *Extract all email addresses*).
 4. Click **Parse Content** → AI extracts requested data.
 
----
 
-## 📸 Demo (Screenshots)
+## 📸 Demo
 
 *Add screenshots or a GIF of your app here*
 
----
 
 ## ⚠️ Notes
 
@@ -106,7 +98,6 @@ streamlit run main.py
 * Selenium may require Chrome to be installed on your system.
 * Works best with structured websites.
 
----
 
 ## 🙌 Acknowledgements
 
@@ -115,6 +106,5 @@ streamlit run main.py
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
 * [Google Gemini API](https://ai.google.dev/)
 
----
 
 ### ⭐ If you like this project, give it a star on GitHub!
