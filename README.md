@@ -2,6 +2,12 @@
 
 An **AI-powered web scraper** that extracts, cleans, and parses website data using **Selenium, BeautifulSoup, and Google Gemini API**. Built with a **Streamlit interface** for simplicity.
 
+## Demo
+
+<p align="center">
+  <img src="Scrappy_AI/Demo.gif" width="600" alt="AI web scrapper demo" />
+</p>
+
 
 ## Features
 
@@ -85,13 +91,6 @@ streamlit run main.py
 2. Click **Scrape Website** → view extracted DOM.
 3. Describe what you want to parse (e.g., *Extract all email addresses*).
 4. Click **Parse Content** → AI extracts requested data.
-
-
-## Demo
-
-<p align="center">
-  <img src="Scrappy_AI/Demo.gif" width="600" alt="AI web scrapper demo" />
-</p>
 
 
 ## Notes
