@@ -13,7 +13,7 @@ An **AI-powered web scraper** that extracts, cleans, and parses website data usi
 
 * **Scrape any website** using Selenium.
 * **Extract & clean body content** (removes scripts, styles, etc.).
-* ✂**Split large DOM content** into manageable chunks.
+* **Split large DOM content** into manageable chunks.
 * **AI-powered parsing** with Google Gemini API.
 * **Streamlit UI** for easy interaction.
 
